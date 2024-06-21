@@ -6,5 +6,5 @@ The project aims to Detect Fake news by using Bi-LSTM which is more effective to
 
 ## Model
 
-![Dataset](https://ai2-s2-public.s3.amazonaws.com/figures/2017-08-08/f7bdb849dafe17c952bfd88b879e01f74cf59d78/4-Figure3-1.png)
+![Dataset](https://miro.medium.com/v2/resize:fit:680/1*sf4vCzcyycSe7GC3dZ2u2w.png)
 
